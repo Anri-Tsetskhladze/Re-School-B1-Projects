@@ -1,0 +1,13 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#myButton{
+    font-size: 60px;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+#myLabels{
+    font-size: 60px;
+}
